@@ -61,7 +61,7 @@ def get_stock_stats(stock, api):
   url = f'https://www.alphavantage.co/query?function=TIME_SERIES_DAILY&symbol={stock}&apikey={api}'
   r = requests.get(url)
   data = r.json()
-  print(data)#
+  #print(data)
   
   place_holder = data['Time Series (Daily)']
   data_set = []
