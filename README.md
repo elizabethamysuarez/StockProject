@@ -1,6 +1,6 @@
 # StockProject
 
-Created: ~ May 3rd, 2023 while attending Modesto Junior College.
+Created: ~ May 3rd, 2024 while attending Modesto Junior College.
 
 Purpose: This project returns the unit price of a stock upon request among other information.
 
